@@ -1,0 +1,12 @@
+   TWD         JYP
+  3000     10733.4
+   TWD         KRW
+  3000      102354
+   TWD         USD
+  3000       101.7
+We don't provide the exchange of this country.
+   TWD         KRW
+  6666      227431
+We don't provide the exchange of this country.
+   TWD         JYP
+   800     2862.24
