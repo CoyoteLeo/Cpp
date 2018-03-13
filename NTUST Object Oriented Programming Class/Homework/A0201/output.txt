@@ -1,0 +1,8 @@
+Average:6.1695	Standard deviation:2.57844
+Average:5371.21	Standard deviation:2686.97
+Average:4714.46	Standard deviation:3203.41
+Average:5388.62	Standard deviation:2924.37
+Average:4672.5	Standard deviation:3082.54
+Average:4893.98	Standard deviation:3132.93
+Average:3942.81	Standard deviation:2815.13
+Average:4223.21	Standard deviation:2995.92
