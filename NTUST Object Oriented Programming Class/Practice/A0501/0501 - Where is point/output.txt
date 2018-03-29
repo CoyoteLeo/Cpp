@@ -1,0 +1,15 @@
+Point (-5, 5) is contained in figure 1
+Point (0, 0) is contained in figure 1
+Point (0, 0) is contained in figure 4
+Point (22.2, 2.5) is contained in figure 9
+Point (1, 6.3) is contained in figure 6
+Point (3.6, 2.7) is contained in figure 2
+Point (3.6, 2.7) is contained in figure 6
+Point (10.5, 14.3) is contained in figure 5
+Point (2.6, 3.4) is contained in figure 2
+Point (2.6, 3.4) is contained in figure 6
+Point (0, 0.5) is contained in figure 2
+Point (0, 0.5) is contained in figure 6
+Point (0, 0.5) is contained in figure 10
+Point (-5.3, -4.6) is not contained in any figure
+Point (-9.5, 2.3) is not contained in any figure
