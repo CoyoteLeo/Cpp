@@ -1,0 +1,20 @@
+0
+Pikachu 35 55 40 90
+1
+Pikachu
+0
+Charmander 39 52 43 65
+0
+Bulbasaur 45 49 49 45
+0
+Squirtle 44 48 65 43
+0
+Eeveeeee 55 55 50 50
+2
+Eeveeeee 
+Eevee 55 55 50 55
+2
+Pikachu
+Pikachuuuuu 0 0 0 0
+1
+Pikachuuuuu

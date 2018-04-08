@@ -1,0 +1,25 @@
+vvvvvvvvvv test4 vvvvvvvvvv
+should be 5 -> 5
+Name: AAA, IP: unknown, Port: unknown
+Name: BBB, IP: 1.1.1.1, Port: unknown
+Name: CCC, IP: 2.2.2.2, Port: unknown
+Name: DDD, IP: 3.3.3.3, Port: 3
+Name: EEE, IP: 4.4.4.4, Port: 4
+
+vvvvvvvvvv test1 vvvvvvvvvv
+Active User: 4
+Name: Enrique, IP: 127.0.0.1, Port: 443
+Name: Gerardo, IP: 7.91.205.21, Port: 8080
+Name: Austyn, IP: 58.222.104.177, Port: unknown
+Name: Troy, IP: unknown, Port: unknown
+vvvvvvvvvv test3 vvvvvvvvvv
+Active User: 4
+Name: Enrique, IP: 127.0.0.1, Port: 443
+Name: Enrique, IP: 127.0.0.1, Port: 443
+Name: Austyn, IP: 58.222.104.177, Port: unknown
+Name: Troy, IP: unknown, Port: unknown
+vvvvvvvvvv test2 vvvvvvvvvv
+Active User: 3
+Name: Enrique, IP: 127.0.0.1, Port: 443
+Name: Gerardo, IP: 7.91.205.21, Port: 8080
+Name: Troy, IP: unknown, Port: unknown

@@ -1,0 +1,75 @@
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 0
+Please enter monster state
+Pikachu 35 55 40 90
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 1
+Please enter monster name : Pikachu
+Name : Pikachu
+Hp : 35
+Damage : 55
+Defence : 40
+Speed : 90
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 0
+Please enter monster state
+Charmander 39 52 43 65
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 0
+Please enter monster state
+Bulbasaur 45 49 49 45
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 0
+Please enter monster state
+Squirtle 44 48 65 43
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 0
+Please enter monster state
+Eeveeeee 55 55 50 50
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 2
+Please enter monster name : Eeveeeee
+Please enter new state : Eevee 55 55 50 55
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 2
+Please enter monster name : Pikachu
+Please enter new state : Pikachuuuuu 0 0 0 0
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature : 1
+Please enter monster name : Pikachuuuuu
+Name : Pikachuuuuu
+Hp : 0
+Damage : 0
+Defence : 0
+Speed : 0
+
+Create monster enter 0
+Check state enter 1
+Change state enter 2
+Feature :
