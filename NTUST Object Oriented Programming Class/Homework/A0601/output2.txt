@@ -1,0 +1,56 @@
+x =  0 + 0*i
+y = 6 + 0*i
+z = 0 + 2.1*i
+
+
+testing members and support functions as well as output operator:
+complex number x = 3 + -4*i
+
+real part: 3
+real part from friend real(x): 3
+imaginary part: -4
+imaginary part from friend imag(x) : -4
+norm: 5
+
+test complex arithmetic and output routines: 
+
+x =  3 + -4*i
+y = 8 + -6*i
+z = 0 + 2.1*i
+
+
+z = x + y = 11 + -10*i
+
+z = x * y = 0 + -50*i
+
+z = x - y = -5 + 2*i
+
+z = x / y = 0.48 + -0.14*i
+
+
+d: -4   x: 3 + -4*i
+
+x+d: -1 + -4*i
+
+x-d: 7 + -4*i
+
+x*d: -12 + 16*i
+
+x/d: -0.75 + 1*i
+
+d+x: -1 + -4*i
+
+d-x: -7 + 4*i
+
+d*x: -12 + 16*i
+
+d/x: -0.48 + -0.64*i
+
+test/x: -0.24 + 0.68*i
+
+
+Getting data from standard input: 
+data read is: x = 4 + 6*i
+ y = 0 + 5*i
+
+
