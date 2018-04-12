@@ -1,0 +1,9 @@
+Add Result = ( 4 , 4 )
+Subtract Result = ( -2.3 , -2.3 )
+Dot Result = 12
+Scale Result = ( 8.25 , 8.25 )
+
+Add Result = ( -5.5 , 12 )
+Subtract Result = ( -13.5 , -4 )
+Dot Result = -150.5
+Scale Result = ( -51 , 48 )

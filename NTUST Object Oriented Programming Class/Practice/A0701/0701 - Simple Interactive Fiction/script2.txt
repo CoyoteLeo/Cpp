@@ -1,0 +1,77 @@
+#0
+Hello world!
+-I'm a boy. #7:30
+-I'm an ant. #0.0
+
+#0.0
+No, I'm a human!
+-I'm a boy. #7:30
+-I'm an ant. #0.0
+
+#7:30
+Opening my eyes, I am looking at the clock on the wall.
+-It's 7:30. #E1
+-It's 8:00. #7:35-1
+-It's 13:00. #7:35-2
+
+#E1
+7:30 is a late, but I still rushed into my classroom safely.
+Nothing happened.
+It's a wonderful day.
+
+#7:35-1
+It seems I'm late.
+-Hurry up. #E2
+-Have breakfast first. #E3
+
+#E2
+On the way to school, I bumped into a cute girl.
+Also I noticed that I misread the time.
+It's a miracle.
+What a lucky day!
+
+#E3
+I was scolded by the teacher.
+It's a terrible day.
+
+#7:35-2
+What the h*ll, I'm late for school!
+-Hurry up. #7:45
+-Well, a day off doesn't matters... #E4
+
+#E4
+I decided to stay at home.
+It's a peaceful day.
+
+#7:45
+Hurry up for school.
+Suddenly, a sense comes up to me.
+My second sight tells me something will occur.
+-Just an illusion. #E5
+-Dodge to the left. #HE
+-Dodge to the right. #7:46
+
+#E5
+Suddenly a car rushes out from my right hand side.
+The last memory is that,
+there's something,
+fly off my body.
+...
+
+#HE
+I remember everything.
+My gift, the lost ability.
+I can see through the future!
+I'll name this day my awakening day.
+
+#7:46
+Suddenly a car rushes out from my right hand side.
+There's something fly off my body.
+An unclear sound appears somewhere.
+???: Return to this morning?
+-Return. #0
+-No. #E6
+
+#E6
+Can't see anything.
+I'm dead.

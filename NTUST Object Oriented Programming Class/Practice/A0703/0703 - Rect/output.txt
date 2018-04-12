@@ -1,0 +1,18 @@
+union : ( 0 , 1 , 11 , 10 )
+intersection : ( 1 , 0 , 4 , 5 )
+
+union : ( 0 , 1 , 2 , 1 )
+Not overlapping
+intersection : ( 0 , 0 , 0 , 0 )
+
+union : ( -5 , 5 , 10 , 10 )
+intersection : ( 0 , 5 , 0 , 10 )
+
+union : ( -5 , 5 , 10 , 10 )
+intersection : ( -2 , 2 , 3 , 3 )
+
+union : ( -2 , 3 , 4 , 4 )
+intersection : ( 0 , 1 , 0 , 0 )
+
+union : ( -2 , 2 , 4 , 10 )
+intersection : ( 0 , 0 , 0 , 1 )

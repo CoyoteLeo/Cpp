@@ -1,0 +1,25 @@
+When I open my eyes, all around is wholly black.
+It seems that I'm in a maze.
+I must find the exit.
+(1) Front
+(2) Back
+There's a boy sleeping on the ground.
+(1) Wake him up
+(2) Ignore him
+There's a girl sleeping on the ground.
+(1) Wake her up
+(2) Ignore her
+There's an intersection.
+Boy: I'm Whity. The exit is on the right.
+Girl: I'm Blacky. The exit is on the left.
+(1) Right
+(2) Left
+(3) Front
+There's another intersection.
+Whity: I'm sure that the exit is on the right.
+Blacky: Trust me. The exit is on the left.
+(1) Right
+(2) Left
+(3) Front
+The night when I'm sleeping, something sharp thrust into my heart.
+I'm dead.
