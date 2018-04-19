@@ -1,0 +1,12 @@
+The word Pokemon find at line 1, position:1, 45
+The word Pokemon find at line 5, position:63
+The word Pokemon find at line 6, position:24
+The word is find at line 1, position:9, 26
+The word is find at line 3, position:11, 25
+The word is find at line 4, position:1, 47
+The word is find at line 5, position:20
+The word Japan find at line 2, position:3
+The word byu not exist in this file.
+The word Japan find at line 1, position:38
+The word Japan find at line 3, position:35
+The word Japan find at line 4, position:63
