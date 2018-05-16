@@ -1,0 +1,7 @@
+Wilson
+He finds some jerky.
+He finds some carrot.
+He picks up some monster meat.
+He gets jerky and carrot.
+At the end, he finds a jerky again!
+End

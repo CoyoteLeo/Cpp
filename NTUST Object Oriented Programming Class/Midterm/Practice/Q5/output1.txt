@@ -1,0 +1,35 @@
+Hourse2's log:
+Day -950
+
+Hourse2's status:
+leg * 4
+
+Hourse's log:
+Day -1050
+Hourse's leg appeared (0 -> 2).
+Hourse's hand appeared (0 -> 2).
+Day -1000
+Hourse's leg increased (2 -> 3).
+Hourse's hand decreased (2 -> 1).
+Day -950
+Hourse's leg increased (3 -> 4).
+Hourse's hand disappeared (1 -> 0).
+Day -950
+Day 1000
+Hourse's horn appeared (0 -> 1).
+Day 1220
+
+Hourse's status:
+horn * 1
+leg * 4
+
+Hourse2's log:
+Day -950
+Day 1000
+Day 1220
+Hourse2's wing appeared (0 -> 2).
+Day 4320
+
+Hourse2's status:
+leg * 4
+wing * 2

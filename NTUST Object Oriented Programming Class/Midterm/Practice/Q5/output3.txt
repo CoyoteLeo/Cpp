@@ -1,0 +1,90 @@
+Fish's log:
+Day C01
+
+Fish's log:
+Day C01
+Fish's head appeared (0 -> 1).
+Fish's fin appeared (0 -> 7).
+Day C02
+
+FishC1's status:
+fin * 7
+head * 1
+
+FishC2's status:
+fin * 8
+head * 1
+
+FishC3's status:
+fin * 4
+hand * 1
+head * 1
+
+FishC4's status:
+fin * 7
+head * 1
+
+FishC5's status:
+fin * 7
+head * 1
+
+FishD1's status:
+fin * 1
+hand * 1
+head * 1
+
+FishD2's status:
+fin * 4
+hand * 1
+head * 1
+
+FishD3's status:
+fin * 1
+hand * 2
+head * 1
+
+FishC3's log:
+Day C02
+Day C03
+Day C04
+Day C05
+Day C06
+Day C07
+FishC3's fin decreased (7 -> 4).
+Day C08
+Day C76
+FishC3's hand appeared (0 -> 1).
+Day D01
+Day D05
+Day D08
+Day D18
+Day D30
+Day E01
+
+FishC3's status:
+fin * 4
+hand * 1
+head * 1
+
+FishD3's log:
+Day D01
+Day D05
+FishD3's fin decreased (4 -> 1).
+Day D08
+Day D18
+Day D30
+FishD3's hand increased (1 -> 2).
+Day E01
+FishD3's fin disappeared (1 -> 0).
+
+FishD3's status:
+hand * 2
+head * 1
+
+Mermaid's log:
+Day E01
+
+Mermaid's status:
+fin * 1
+hand * 2
+head * 1

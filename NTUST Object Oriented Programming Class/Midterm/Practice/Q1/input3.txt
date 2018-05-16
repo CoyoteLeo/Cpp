@@ -1,0 +1,32 @@
+6
+Abel
+Arlen
+Armand
+Arvin
+Asa
+Augustine
+Abel
+654 3
+Asa
+Armand
+Augustine
+Arlen
+925 2
+Augustine
+Abel
+Armand
+1501 4
+Asa
+Augustine
+Abel
+Arvin
+Arvin
+23 3
+Armand
+Abel
+Asa
+Asa
+0 1
+Abel
+Augustine
+0 0

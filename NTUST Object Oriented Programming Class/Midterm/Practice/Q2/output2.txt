@@ -1,0 +1,8 @@
+Yes
+Ascending order
+Yes
+Descending order
+Yes
+All same
+Yes
+Ascending order
