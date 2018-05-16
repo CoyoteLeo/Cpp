@@ -75,11 +75,11 @@ int main()
         // 建立答案的序列
         result[result_index++] = activity[max_index][5];
         // 從最後往前推找出活動序列，當活動的前一個是自己時表示自己就是第一個
-        do
+        while (max_index != activity[max_index][4])
         {
             max_index = activity[max_index][4];
             result[result_index++] = activity[max_index][5];
-        } while (max_index != activity[max_index][4]);
+        }
         // 依照 ID 排序結果
         qsort(result, result_index, sizeof(int), compare_int);
         // 列印出結果
