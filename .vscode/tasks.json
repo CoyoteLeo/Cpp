@@ -1,0 +1,46 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "0.1.0",
+    "tasks": [
+        {
+            "taskName": "build",
+            "command": "g++",
+            "isBuildCommand": true,
+            "isShellCommand": true,
+            "args": [
+                "\"${file}\"",
+                "-g",
+                "-std=c++11",
+                "-O",
+                "-o",
+                "\"${fileBasenameNoExtension}.exe\"",
+                "&&",
+                "start",
+                "cmd",
+                "/c",
+                "\"\"${fileBasenameNoExtension}.exe\" & pause\""
+            ],
+            "showOutput": "always",
+            "isBackground": false,
+            "options": {
+                "cwd": "${fileDirname}"
+            }
+        },
+        {
+            "taskName": "compile", // 任务名称，与launch.json的preLaunchTask相对应
+            "command": "g++", // 要使用的编译器
+            "args": [
+                "${file}",
+                "-o", // 指定输出文件名，不加该参数则默认输出a.exe
+                "${fileDirname}/${fileBasenameNoExtension}.exe",
+                "-g", // 生成和调试有关的信息
+                // "-O", // 最佳化
+                //"-Wall", // 开启额外警告
+                //"-static-libgcc", // 静态链接
+                "-std=c++11" // C语言最新标准为c11，或根据自己的需要进行修改
+            ], // 编译命令参数
+            // "problemMatcher":"$gcc" // 如果你不使用clang，去掉前面的注释符，并在上一条之后加个逗号。照着我的教程做的不需要改（也可以把这行删去)
+        }
+    ]
+}
