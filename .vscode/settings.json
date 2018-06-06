@@ -84,6 +84,8 @@
         "cuchar": "cpp",
         "shared_mutex": "cpp",
         "string": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "deque": "c",
+        "unordered_map": "c"
     }
 }
