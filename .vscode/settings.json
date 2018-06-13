@@ -86,6 +86,10 @@
         "string": "cpp",
         "queue": "cpp",
         "deque": "c",
-        "unordered_map": "c"
+        "unordered_map": "c",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_set": "cpp",
+        "numeric": "cpp"
     }
 }
